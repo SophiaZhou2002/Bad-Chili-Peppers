@@ -1,0 +1,14 @@
+{
+  "map": {
+	"borderAssetId": 0,
+    "floorAssetId": 0,
+    "length": 15,
+    "width": 21,
+	"duration": 100,
+	"shadowColor": "#2B2E4A"
+  },
+"entities": [
+	{"type": "player", "assetId": 0, "position": {"x": 1, "y": 1}, "properties": {"movement": "idle", "stage": 0}},
+    {"type": "ingredient", "assetId": 2, "position": {"x": 0, "y": 0}, "properties": {"movement": "idle", "stage": 0}}
+  ]
+}

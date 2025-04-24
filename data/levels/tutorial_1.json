@@ -1,0 +1,12 @@
+{
+  "map": {
+	"borderAssetId": 0,
+    "floorAssetId": 0,
+    "length": 7,
+    "width": 14
+  },
+
+  "entities": [
+    { "type": "player", "assetId": 0, "position": { "x": 7, "y": 4 } }
+  ]
+}

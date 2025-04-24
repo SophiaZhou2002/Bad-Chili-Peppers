@@ -1,0 +1,40 @@
+{
+    "levels": [
+        {
+            "bestTime": 0,
+            "completed": false,
+            "level": 1,
+            "unlocked": true
+        },
+        {
+            "bestTime": 0,
+            "completed": false,
+            "level": 2,
+            "unlocked": false
+        },
+        {
+            "bestTime": 0,
+            "completed": false,
+            "level": 3,
+            "unlocked": false
+        },
+        {
+            "bestTime": 0,
+            "completed": false,
+            "level": 4,
+            "unlocked": false
+        },
+        {
+            "bestTime": 0,
+            "completed": false,
+            "level": 5,
+            "unlocked": false
+        },
+        {
+            "bestTime": 0,
+            "completed": false,
+            "level": 6,
+            "unlocked": false
+        }
+    ]
+}

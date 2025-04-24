@@ -1,0 +1,30 @@
+{
+	"map": {
+		"floorAssetId": 0,
+		"borderAssetId": 0,
+		"length": 18,
+		"width": 32,
+		"hasLimitedVision": false,
+		"shadowColor": "#00000000",
+		"duration": 60
+	},
+	"entities": [
+		{	
+			"type": "(string) ingredient | obstacle | powerup | player | enemy | fire", 
+			"assetId": "(number) the asset index in components.hpp for each list of TEXTURE_ASSET_IDS",
+			"position": {
+				"x": 0,
+				"y": 0
+			},
+			"properties": {
+				"isIncorrect": true,
+				"hasLight": false,
+				"movement": "(string) idle | astar | astar_fire | bounce | inverse_astar",
+				"stage": 0,
+				"subtype": 0,
+				"spanX": 1,
+				"spanY": 1
+			}
+		}
+	]
+}

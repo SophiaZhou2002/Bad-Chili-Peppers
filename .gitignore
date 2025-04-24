@@ -1,0 +1,14 @@
+.vscode
+.cache
+out
+build
+.vscode
+/CMakeFiles
+*.cmake
+CMakeCache.txt
+Makefile
+project_path.hpp
+bad_chilli_peppers
+.DS_STORE
+null.d
+fresh.sh
