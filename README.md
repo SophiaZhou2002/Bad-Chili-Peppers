@@ -7,7 +7,7 @@ This game was developed as a group project for CPSC 427 at the University of Bri
 **Team Members**:
 Sophia Zhou, Suha Mansuri, William Chow, Abhi Chouhan, Simrit Nijjar
 
-### 💻 My Contributions
+### My Contributions
 - Implemented A* pathfinding
 - Implemented player movement
 - Implemented fire creation/destruction
